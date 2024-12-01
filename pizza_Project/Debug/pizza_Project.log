@@ -1,0 +1,4 @@
+﻿  pizza_Project.c
+C:\Users\sharo\Documents\Computer Science\1st year\1st sem\pizza_Project\pizza_Project\pizza_Project.c(97,65): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\sharo\Documents\Computer Science\1st year\1st sem\pizza_Project\pizza_Project\pizza_Project.c(97,87): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  pizza_Project.vcxproj -> C:\Users\sharo\Documents\Computer Science\1st year\1st sem\pizza_Project\Debug\pizza_Project.exe
